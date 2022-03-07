@@ -41,6 +41,7 @@ var (
 	QueueMetricTopic      = "queue"
 	PipelineTopic         = "pipeline"
 	ComponentBaseTopic    = "component"
+	SystemTopic           = "sys"
 )
 
 type BaseMetric struct {

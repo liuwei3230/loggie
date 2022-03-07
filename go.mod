@@ -7,7 +7,7 @@ require (
 	github.com/creasty/defaults v1.5.1
 	github.com/fsnotify/fsnotify v1.4.9
 	github.com/go-playground/validator/v10 v10.4.1
-	github.com/google/go-cmp v0.5.6
+	github.com/google/go-cmp v0.5.7
 	github.com/hpcloud/tail v1.0.0
 	github.com/json-iterator/go v1.1.11
 	github.com/mattn/go-sqlite3 v1.14.6
@@ -21,8 +21,8 @@ require (
 	github.com/prometheus/prom2json v1.3.0
 	github.com/rs/zerolog v1.20.0
 	github.com/segmentio/kafka-go v0.4.23
+	github.com/shirou/gopsutil/v3 v3.22.2
 	github.com/smartystreets-prototypes/go-disruptor v0.0.0-20200316140655-c96477fd7a6a
-	github.com/xhit/go-str2duration/v2 v2.0.0
 	go.uber.org/automaxprocs v0.0.0-20200415073007-b685be8c1c23
 	golang.org/x/net v0.0.0-20220111093109-d55c255bac03
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0
